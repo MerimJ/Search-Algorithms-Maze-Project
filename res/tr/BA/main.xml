@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<DevRes>
+	<Translations>
+		<Res id="AStarMaze" tr="A* Rješavanje Labirinta"/>
+		<Res id="App" tr="App"/>
+		<Res id="Maze" tr="Labirint"/>
+		<Res id="Quit" tr="Izlaz"/>
+		<Res id="start" tr="Pokreni"/>
+		<Res id="stop" tr="Zaustavi"/>
+		<Res id="startTT" tr="Pokreni / nastavi animaciju"/>
+		<Res id="stopTT" tr="Zaustavi animaciju"/>
+		<Res id="step" tr="Korak"/>
+		<Res id="stepTT" tr="Izvrši jedan korak pretrage"/>
+		<Res id="regen" tr="Novi labirint"/>
+		<Res id="regenTT" tr="Generiši novi slučajni labirint"/>
+		<Res id="lblAlgorithm" tr="Algoritam"/>
+		<Res id="lblSpeed" tr="Brzina"/>
+		<Res id="lblDensity" tr="Gustoća"/>
+		<Res id="lblSize" tr="Veličina"/>
+		<Res id="lblEdit" tr="Uređivanje"/>
+		<Res id="modeWall" tr="Zid/put"/>
+		<Res id="modeStart" tr="Postavi start"/>
+		<Res id="modeGoal" tr="Postavi cilj"/>
+		<Res id="chkDiagonal" tr="Dijagonalno kretanje"/>
+		<Res id="chkGuarantee" tr="Garantuj put"/>
+		<Res id="lblVisitedColor" tr="Posjećeno"/>
+		<Res id="lblPathColor" tr="Putanja"/>
+		<Res id="statusReady" tr="Spremno"/>
+		<Res id="statusRunning" tr="Pretraga u toku..."/>
+		<Res id="statusSolved" tr="Riješeno"/>
+		<Res id="statusNoPath" tr="Nema putanje"/>
+	</Translations>
+</DevRes>

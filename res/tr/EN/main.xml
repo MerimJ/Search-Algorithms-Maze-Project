@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<DevRes>
+	<Translations>
+		<Res id="AStarMaze" tr="A* Maze Solver"/>
+		<Res id="App" tr="App"/>
+		<Res id="Maze" tr="Maze"/>
+		<Res id="Quit" tr="Quit"/>
+		<Res id="start" tr="Start"/>
+		<Res id="stop" tr="Stop"/>
+		<Res id="startTT" tr="Start / resume animation"/>
+		<Res id="stopTT" tr="Stop animation"/>
+		<Res id="step" tr="Step"/>
+		<Res id="stepTT" tr="Do one search step"/>
+		<Res id="regen" tr="New Maze"/>
+		<Res id="regenTT" tr="Generate a new random maze"/>
+		<Res id="lblAlgorithm" tr="Algorithm"/>
+		<Res id="lblSpeed" tr="Speed"/>
+		<Res id="lblDensity" tr="Density"/>
+		<Res id="lblSize" tr="Size"/>
+		<Res id="lblEdit" tr="Edit"/>
+		<Res id="modeWall" tr="Toggle wall"/>
+		<Res id="modeStart" tr="Set start"/>
+		<Res id="modeGoal" tr="Set goal"/>
+		<Res id="chkDiagonal" tr="Diagonal moves"/>
+		<Res id="chkGuarantee" tr="Guarantee path"/>
+		<Res id="lblVisitedColor" tr="Visited"/>
+		<Res id="lblPathColor" tr="Path"/>
+		<Res id="statusReady" tr="Ready"/>
+		<Res id="statusRunning" tr="Searching..."/>
+		<Res id="statusSolved" tr="Solved"/>
+		<Res id="statusNoPath" tr="No path found"/>
+	</Translations>
+</DevRes>

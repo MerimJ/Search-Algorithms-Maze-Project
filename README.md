@@ -8,7 +8,7 @@
 
 ## 📋 Overview
 
-An interactive desktop application that visualizes three classic graph-search algorithms navigating randomly generated mazes. Built with C++17 and the [natGUI]([https://www.natGUI.co](https://github.com/idzafic/natID/) cross-platform UI framework, the tool lets you watch BFS, Dijkstra, and A* explore the grid in real time — step by step or in animated mode.
+An interactive desktop application that visualizes three classic graph-search algorithms navigating randomly generated mazes. Built with C++17 and the [natGUI](https://github.com/idzafic/natID/) cross-platform UI framework, the tool lets you watch BFS, Dijkstra, and A* explore the grid in real time — step by step or in animated mode.
 
 ---
 
